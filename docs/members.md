@@ -3,3 +3,4 @@
 * Bastian Schneider
 * Luca Berneking
 * Felix Tanner
+* Markus Schuler
