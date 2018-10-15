@@ -4,4 +4,5 @@
 * Luca Berneking
 * Felix Tanner
 * Markus Schuler
+* Michelle Vorwerk
 * Sinan Yasar
