@@ -1,4 +1,4 @@
-# Projekttagebuch: [name]
+# Projekttagebuch: [basti]
 
 Aufgabe / Task | Zeitpunkt | Dauer
 --- | --- | ---
