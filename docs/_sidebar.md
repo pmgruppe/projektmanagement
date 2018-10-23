@@ -1,2 +1,2 @@
 * [Home](/)
-* [Members](members.md)
+* [Meetings](meetings.md)
