@@ -2,7 +2,7 @@
 > Beginn: 09:10
 
 - Projektauftrag formuliert
-- E-Mail-Adresse für Jira eingesammelt
+- E-Mail-Adressen für Jira eingesammelt
 
 > Ende: 09:35
 
