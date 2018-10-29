@@ -1,5 +1,7 @@
-# Projekttagebuch: FelixAufgabe / Task | Zeitpunkt | Dauer
+﻿# Projekttagebuch: Felix
+
+Aufgabe / Task | Zeitpunkt | Dauer
 --- | --- | ---
-Lesen PM im Studium | 21.10.2018 - 14:00 | 02h 30m
-Zusammenfassung geschrieben| 21.10.2018 - 21:00 | 00h 30m
-Lesen PM im Studium| 29.10.2018 - 22:00 | 01h 10m
+PM im Studium Kapitel 1&2 gelesen | 20.10.2018 - 14:00 | 02h 30m
+Meeting | 23.10.2018 - 13:15 | 00h 25m
+PM im Studium Kapitel 1&2 zusammengefasst| 20.10.2018 - 20:00 | 00h 20m
