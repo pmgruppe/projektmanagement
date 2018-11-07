@@ -1,3 +1,21 @@
+> Di, 06.11.2018
+> Beginn: 13:25
+
+-
+
+> Ende: 13:45
+
+---
+
+> Di, 30.10.2018
+> Beginn: 13:15
+
+- Meilenstein festgelegt: Di, 13.11.2018 - Buch 3 gelesen + Notizen
+
+> Ende: 13:35
+
+---
+
 > Do, 25.10.2018
 > Beginn: 09:10
 
