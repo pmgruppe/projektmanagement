@@ -1,0 +1,113 @@
+# 1 Allgemeines
+- Unterschiedliche Projekte unterschieden durch Inhalt, Anlass, Initiierung, Komplexität sowie Wiederholungsgrad
+- Projektphasen: Start, Ausführung, Abschluss
+- 3 Dimensionen des Projektmanagement:
+	- Geschäftsverständnis (Wozu? Welchen Nutzen?)
+	- Fachkenntnisse (Kenntnisse und Fähigkeiten, die für Bearbeitung benötigt)
+	- Projektmanagement (Im Studium eher Koordinierung)
+- Scrum
+	- Probleme und Fortschritte werden oft (fast täglich) mitgeteilt
+	- Lösungen werden in bestimmten Zeitabschnitten beurteilt und validiert
+	- Anforderungen an das Projekt werden laufend angepasst
+	- Nur für kleingruppen (wegen „Selbstorganisierung)
+- VAKIR
+	- 5 Phasen: Vorbereitung, Analyse, Konzept, Implementierung, Review
+- Standards für PM: IPMA, PMI, Prince2
+# 2 Startphase
+- Orientierung bzw. verstehen des Themas
+- Recherche
+- Ideen sammeln (z.B. Brainstorming, Mind Mapping, 6 Hüte, 6-3-5)
+- Projektauftrag formulieren:
+	- Team
+	- Ziel
+	- Aufgabe
+	- Gewünschte Ergebnisse
+	- Meilensteine
+- Rollen klären:
+	- Leiter / Controller
+	- Mitarbeiter / Documenter
+	- Kunden / Benutzer
+	- Auftraggeber
+	- Struktur (Nach Interessen und Fähigkeiten) – Rollentest?
+- Planung:
+	- Anfangs simpel – später auch mit Programmen (Überarbeiten)
+	- Meilensteine und andere Termine festlegen
+	- Arbeit aufteilen und Aufwand abschätzen
+- Meilensteine sollten spezifisch, messbar, akzeptiert, realistisch und terminiert sein
+- Work Breakdown Structure:
+	- Projekte in Zeitplan (mit Risiken) und Deliverables aufteilen
+	- Diese werden zu einem Gesamtplan zusammengefasst
+# 3 Ausführungsphase
+- Magisches Viereck: Zeit, Kosten, Qualität, richtige Ressourcen
+- Organisatorische Instrumente:
+	- PM-Software
+	- Lernplattform (ILIAS)
+	- Datenplattformen: Clouds, Konferenzen (via Skype, TeamViewer), Doodle für Termine, Mailverteiler, Telefonliste, WhatsApp-Gruppe, Ablagestruktur / Namenskonventionen, (Soziale Netzwerke)
+
+## 3.1 Kommunikation
+- Kick-Off-Meeting, Statusupdates, Zwischenpräsentationen
+- Verbal vs. non-Verbal
+- Sagen – meinen – verstehen (Selbstaussage, Sachaspekt, Appel, Beziehungsaspekt)
+- Aktives Zuhören und Feedback (Rückkopplung) für erfolgreiche Kommunikation
+- Ursache für Konflikte
+- Selbstbild vs. Fremdbild (Öffentlich, privat, „Blinder Fleck“, Unbekannt)
+- Feedback zur Konfliktvermeidung und Verbesserung des Teamworks
+- Offenes Klima und gegenseitiges Feedback sorgen für eine bessere Arbeit
+- Regeln für Feedback:
+	- Erlaubnis einholen, beschreiben, Bezug nehmen, Hilfestellung, Zeitnah
+	- Bewusst holen, annehmen statt verteidigen, nachfragen, Dankbarkeit
+
+## 3.2 Fortschritt und Qualität sicherstellen
+	- Taskliste, Projekttagebuch und regelmäßige Updates zur Qualitätssicherung
+	- Bei Prioritäten maximal 3 Abstufungen (1: must-have, 2: alles, 3: nice-to-have)
+	- Fortschritt festhalten um Motivation hoch zu halten
+	- Auf Statusupdates vorbereiten: Fortschritt, offene Fragen/Punkte, grafisch
+	- Tagebücher anlegen, um Fortschritt und Entwicklung zu beobachten
+	- Besprechungen protokollieren (Verlaufs- vs. Ergebnisprotokoll) (28.10. 19.00)
+	- „Auf den letzten Drücker“ evolutionär bedingt (29.10. 18.00)
+	- Zeitgefühl ist von Person abhängig
+	- Aufschieben von Aufgaben nicht immer schlecht
+	- Unter Stress arbeitet man teilweise besser und intensiver
+## 3.3 Entscheidungen
+- Auch auf „Bauchgefühl“ hören, da intuitiv auch viel wahrgenommen wird
+	- Je komplexer, desto richtiger ist Intuition
+- In emotionalen Momenten vermeiden
+- Entscheidungsmatrix/Nutzwertanalyse
+	- Tabelle mit Kriterien, Gewichtungen und Unterschiedlichen Lösungen
+	- Gewichtung multipliziert mit Wert der Lösung
+	- Alle Kriterien summieren und Lösung mit höchstem Gesamtwert wählen
+	- Aber auch die Gewichtung am Ende nicht aus den Augen verlieren
+- Plus Minus Interesting (PMI)
+	- Pro, Contra und Interessantes für jeden Lösungsansatz
+	- Hilft evtl. nicht bei Entscheidung selbst, aber schafft etwas Klarheit
+- Consider All Facts (CAF)
+	- Wie PMI nur mit mehr Abstand
+	- Hilfreich um sich einen Überblick zu verschaffen
+- SWOT – Analyse (Strengths, Weaknesses, Opportunities, Threats)
+	- Zur Untersuchung der Gruppe (Organisation) oder der Qualität
+	- Interne und Externe Sichtweisen fließen mit ein
+## 3.4 Risiken und deren Management
+- Gliederung in drei Phasen: Identifizieren, Bewerten, Überwachen/Steuern
+- Aufstellen einer „Risiko-Matrix“ kann helfen (Einfluss vs. Wahrscheinlichkeit)
+- In der Praxis ist es oft schwer erkannte Risiken richtig zu „behandeln“
+- Umgang mit Risiken:
+	- Akzeptieren
+	- An der Vermeidung arbeiten
+	- Aus dem Projektumfang entfernen
+	- Alternativpläne entwickeln
+	- Übertragen an Außenstehenden
+- Risiken im Studium
+![alt text] ([logo]: C:\Users\Basti\OneDrive - fh-bielefeld.de\Studium\3. Semester\4 Softwareprojektmanagement\3.17.png "Bild")
+- Mit mehr Erfahrung wurde effizienter gearbeitet, aber es gab auch mehr Konflikte aufgrund von unterschiedlicher Motiviertheit
+- Bei unterschiedlichem Engagement gibt es kein Rezept für Erfolg
+- Häufigste Formen:
+	- Jemand will mehr/weniger erreichen als alle anderen
+	- Jemand macht mehr/weniger als alle anderen
+	- Jemand beteiligt sich gar nicht
+- Prinzipiell lässt sich sagen, dass all diese Probleme kommuniziert werden sollten
+- Bei mangelnder Bereitschaft zur Teamarbeit versuchen einzubeziehen oder gewisse Anforderungen stellen (Gemeinsam bestehen)
+-  Auf der anderen Seite sollte man seine Teammitglieder auch nicht behindern
+- Bei zu geringen Vorkenntnissen/fachlichem Wissen hilft oft sich Auszuprobieren
+- Nicht davor zurückschrecken den Plan bzw. das Projekt zu überdenken
+- Bei Technischen Problemen nicht aufgeben bzw. diese als Ausrede nutzen
+- Aktiv nach Lösungen suchen und auch andere um Rat bitten
