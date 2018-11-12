@@ -1,14 +1,14 @@
-**8 Projektdurchführung**
+#8 Projektdurchführung
 
-  **8.1 Einleitung**
+##8.1 Einleitung
 
   Wenn das Team steht, das Projekt initiiert ist beginnt die Projektdurchführung und endet mit der Übergabe der Projektergebnisse an den Auftraggeber.
   In der Projektdurchführung wird natürlich das Projektergebnis erarbeitet.
   Es kommen viele Aufgaben aus verschiedenen Bereichen, wie:
-  	-Anforderungserhebung (Anforderungen zu sammeln und dokumentieren)
-  	-Entwurf und Design
-  	-Codierung
-  	-Verifikation und Integration
+    - Anforderungserhebung (Anforderungen zu sammeln und dokumentieren)
+    - Entwurf und Design
+    - Codierung
+    - Verifikation und Integration
 
   Hauptaufgabe der Projektorganisation liegt dabei bei der Planung der Arbeit im Projekt.
   Die Überwachung und Kontrolle der Projektfortschritte und der Organisation der Kundeninteraktion in Hinblick auf Lieferung und Abnahme.
@@ -23,37 +23,37 @@
   (Abb. 8.1) und (Tab. 8.1) interessant.
 
 
-  **8.2 Projektfortschrittskontrolle und Steuerung**
+##8.2 Projektfortschrittskontrolle und Steuerung
 
-  -Aufrechthaltung der organisatorischen Rahmenbedingungen für das Projekt
-  (z.B., dass das Projektteam arbeitsfähig bleibt, dass möglichst wenige oder keine
+  - Aufrechthaltung der organisatorischen Rahmenbedingungen für das Projekt (z.B., dass das Projektteam arbeitsfähig bleibt, dass möglichst wenige oder keine
   Überlasten (zum Beispiel Überstunden) entstehen und dass zum Beispiel in der Interaktion
   mit dem Kunden Änderungsforderungen nicht unkoordiniert in das Projekt Eingang
   finden)
-  -Erreichung der vereinbarten Projektziele
+  - Erreichung der vereinbarten Projektziele
 
-**8.2.1 Grundsätzliches Fortschrittskontrolle**
+##8.2.1 Grundsätzliches Fortschrittskontrolle
 
   Bewältigung von unerwarteten Schwierigkeiten, die Überwachung und Dokumentation des Projektfortschritts. Einhaltung von Kosten, Terminen und Qualitätsvorgaben.
 
 
-  • regelmäßige (beispielsweise monatliche) Fortschrittsberichte
-  • regelmäßige (beispielsweise wöchentliche) Projektbesprechungen
-  • Überprüfung der Resultate durch Qualitätskontrollmaßnahmen
+  - regelmäßige (beispielsweise monatliche) Fortschrittsberichte
+  - regelmäßige (beispielsweise wöchentliche) Projektbesprechungen
+  - Überprüfung der Resultate durch Qualitätskontrollmaßnahmen
 
-**8.2.1.2 Prinzipen der Fortschrittskontrolle**
+##8.2.1.2 Prinzipen der Fortschrittskontrolle
   - Motivation bei Mitarbeitern
   - vertrauensvolle und offene Kommunikation
   	Mitarbeiter sollten über Projektziele und Rahmenbedingungen informiert werden
   	Probleme sollen offen besprochen werden
   	Mitarbeiter sollen die Möglichkeit haben Vorschläge einzubringen
-  -Überprüfung und Statuskontrolle
+  - Überprüfung und Statuskontrolle
   Meist nicht gern von Mitarbeitern gesehen, da sie sich „beobachtet“ fühlen.
+
   Im Berichtswesen sind alle Informationen zum Projekt eingetragen:
-  	• Ergebnisse unabhängiger Kontrollmechanismen
-    • Termin- und Arbeitspläne
-    • Ist-Stands des Projekts in Bezug auf die Soll-Vorgaben
-    • Identifikation von Problemen und der Festlegung von Maßnahmen
+  	- Ergebnisse unabhängiger Kontrollmechanismen
+    - Termin- und Arbeitspläne
+    - Ist-Stands des Projekts in Bezug auf die Soll-Vorgaben
+    - Identifikation von Problemen und der Festlegung von Maßnahmen
   Auftretende Abweichungen von der Planung müssen so früh wie möglich erkannt und behandelt werden bei der Planung des Projekts.
   Ziel der Fortschrittskontrolle
   Prüfen ob das Projekt im Plan liegt und Identifizierung von Fehlplanungen oder Umplanungsbedarf.
@@ -63,7 +63,7 @@
 
 
 
-**8.2.1.3 Projektbesprechungen**
+##8.2.1.3 Projektbesprechungen
 
   Projektbesprechungen sind wichtige Bestandteile der Projektkoordination. Projektleiter sowie das Projektteam bekommen den aktuellen Zustand des Projekts sowie auftretende Schwierigkeiten oder Koordinationserfordernisse mit. Die Besprechungen sind auch von psychologischer Bedeutung und beeinflussen Motivation und Stimmung im Team.
   Projektbesprechungen sollten nicht mehr als zwei Ebenen in der Organisationshierarchie betreffen, sprich Projektleiter und die Ebene darunter die „Teil-Projektleiter“.
@@ -71,39 +71,35 @@
   Aber es sollten auch solche Besprechungen regelmäßig mit dem Projektteam stattfinden.
   Hier werden aktuelle Arbeitsaufträge geprüft, deren Status festgestellt, gegeben falls Umplanungen vorzunehmen oder neue Arbeitsaufträge zu vergeben. Risiken sollten auch besprochen werden.
 
-  **Im Agilen Umfeld**
+  ###Im Agilen Umfeld
 
   Projektbesprechungen hängen vom Unternehmens- und Projektkultur ab.
   Bei Scrum gibt es kurze und knappe tägliche Besprechungen „Daily-Scrum“ .
 
-**8.2.1.4 Herbeiführen einer Projektfortschrittentscheidung**
+###8.2.1.4 Herbeiführen einer Projektfortschrittentscheidung
 
 
-**8.2.2 Fortschrittskontrolle**
+##8.2.2 Fortschrittskontrolle
 
-Hier werden wesentliche Aspekte des Projekts überwacht und gesteuert.
+  Hier werden wesentliche Aspekte des Projekts überwacht und gesteuert.
 
-(Abb. 8.2) interessant
+  (Abb. 8.2) interessant
 
-**8.2.2.1 Termintreue**
+##8.2.2.1 Termintreue
 
-Um Abweichungen von Soll und Ist festzustellen, wird die Plan- und Termintreue bestimmt.
+  Um Abweichungen von Soll und Ist festzustellen, wird die Plan- und Termintreue bestimmt.
 
-Plantreue
-
+  Plantreue
     Leistungsgröße
-
-      -Ergebnisse eines Projekts, z.B. Funktionsumfang einer Software.
-
+      - Ergebnisse eines Projekts, z.B. Funktionsumfang einer Software.
     Lastgrößen
+      - z.B. Termine oder Kosten
 
-      -z.B. Termine oder Kosten
-
-Termintreue
-
+  > Termintreue
 
 
-**8.2.2.2 Meilensteintrendanalyse**
+
+##8.2.2.2 Meilensteintrendanalyse
 
   (Abb. 8.3)
   Über die Meilensteintrendanalyse kann man sehr gut beobachten, wie Verzögerungen bei Arbeitspaketen auf dem kritischen Pfad den gesamten Projektverlauf beeinflussen können.
@@ -113,13 +109,12 @@ Termintreue
 
 
 
-**8.2.2.3 Soll-/Ist-Vergleich des Aufwands**
+##8.2.2.3 Soll-/Ist-Vergleich des Aufwands
 
   In einem Projekt ist der erforderliche Aufwand und an diesem Aufwand gekoppelt das Projektbudget.
   Daher ist die Überwachung des Aufwands und das Verhältnis von verbrauchtem zu geplanten Aufwands wichtig zu beobachten.
 
   Aufwandserfassung
-
     Um einen Soll-/Ist-Vergleich für die Aufwandserfassung durch zuführen zu können, muss die verbrauchte Zeit erfasst werden.
     Die Projektmitarbeiter dokumentieren ihre geleistete Arbeit z.B. auf Stundenzetteln.
     Dieser werden erfasst und ausgewertet, meist in Datenbanken.
@@ -138,50 +133,50 @@ Termintreue
       Unzureichende Qualität der Mitarbeiter (mangelnde Qualifikation, Motivation, Produktivität)
       Leerlauuf der Mitarbeiter durch unklare Aufgabenstellung
 
-**8.2.2.4 Überwachung des Fertigstellungsgrades von Artefakten**
+###8.2.2.4 Überwachung des Fertigstellungsgrades von Artefakten
 
-**8.2.2.5 Unterstützung durch Werkzeuge**
+###8.2.2.5 Unterstützung durch Werkzeuge
 
 
-**8.2.3 Kostenerfassung und -kontrolle**
+##8.2.3 Kostenerfassung und -kontrolle
 
   Die Kostenerfassung erfolgt durch:
-    -Tätigkeitsberichte für Personalkosten
-    -Kosten für Unteraufträge
-    -Interne Berechnung für Materialkosten, Dienstleistungen und ähnliches
+    - Tätigkeitsberichte für Personalkosten
+    - Kosten für Unteraufträge
+    - Interne Berechnung für Materialkosten, Dienstleistungen und ähnliches
 
-**8.2.4 Änderungskontrolle**
+##8.2.4 Änderungskontrolle
 
   Für den Erfolg eines Projekts ist eine sehr konsequent ausgeführte Änderungskontrolle wichtig.
 
   Gegenstand der Änderungskontrolle sind alle Ergebnisse, insbesondere:
-    -Systemanforderungen
-    -Architektur- und Schnittstellenfestlegungen
-    -Komponentenanforderungen
-    -Testdaten
-    -Code
+    - Systemanforderungen
+    - Architektur- und Schnittstellenfestlegungen
+    - Komponentenanforderungen
+    - Testdaten
+    - Code
 
 
-**8.2.4.1 Änderungsforderungen und Änderungsentscheidungen**
+##8.2.4.1 Änderungsforderungen und Änderungsentscheidungen
 
-• Änderung der Anwenderanforderungen
-• Unklarheiten in den Anforderungen oder im Entwurf
-• Fehler im Entwurf oder im Softwaresystem
-• Nichterfüllung der Anforderungen (fehlende oder fehlerhafte Funktionalität)
-• Qualitätsmängel (hinsichtlich Tests, Leistung, Stabilität)
-• Optimierungsbedarf oder -optionen (Performance, Skalierbarkeit)
+  - Änderung der Anwenderanforderungen
+  - Unklarheiten in den Anforderungen oder im Entwurf
+  - Fehler im Entwurf oder im Softwaresystem
+  - Nichterfüllung der Anforderungen (fehlende oder fehlerhafte Funktionalität)
+  - Qualitätsmängel (hinsichtlich Tests, Leistung, Stabilität)
+  - Optimierungsbedarf oder -optionen (Performance, Skalierbarkeit)
 
-**8.2.4.2 Konfliktpotenzial**
+##8.2.4.2 Konfliktpotenzial
 
   Durch mehrmalige Änderungen kann es leicht zu Konflikten im Team kommen.
   Der Arbeitsmoral sinkt, da das Projektteam den Eindruck erweckt, dass es sich gar nicht lohnt etwas fertig zu machen.
 
-**8.2.4.3 Änderungskontrolle**
+##8.2.4.3 Änderungskontrolle
 
   Die Änderungskontrolle ist dafür da die Entwicklung des Projekts zu beobachten.
   (Tab. 8.3)
 
-**8.2.5 Berichtswesen**
+##8.2.5 Berichtswesen
 
   Eine objektive, transparente und gut dokumentierte Fortschrittskontrolle ist wichtig um die Fertigstellung abzuschließen.
   Die Dokumentierung zwingt das Managment, sowie den anderen Beteiligten sich über den Stand des Projektes bewusst zu werden und Rechenschaft abzulegen.
@@ -190,34 +185,34 @@ Termintreue
   Das Berichtswesen ist dafür da alle Beteiligten auf den gleichen Fortschritt zu bringen.
 
   Das Berichtwesen sollte folgende Kernfragen beantworten können:
-  • Was ist der aktuelle Gesamtprojektstatus?
-  • Ist das Projekt noch im Kosten-/Zeitplan?
-  • Was ist der fachliche Fortschritt?
-  • Was sind aktuelle Problem und Risiken?
-  • Sind in Zukunft Probleme zu erwarten?
+    - Was ist der aktuelle Gesamtprojektstatus?
+    - Ist das Projekt noch im Kosten-/Zeitplan?
+    - Was ist der fachliche Fortschritt?
+    - Was sind aktuelle Problem und Risiken?
+    - Sind in Zukunft Probleme zu erwarten?
 
-Seite 276
+> Seite 276
 
-**8.3 Qualitätskontrolle und -steuerung**
+##8.3 Qualitätskontrolle und -steuerung
 
   Sicherstellung der Qualität des Softwareprodukts
 
   konstruktive Qualitätssicherung
-    -systematische und vorausschauende Entwicklungsschritte sicherstellt
+    - systematische und vorausschauende Entwicklungsschritte sicherstellt
   analytische Qualitätssicherung
-    -die nach Fertigstellung das (Teil-)Ergebnis eines Entwicklungsabschnitts auf seine Qualität überprüft
+    - die nach Fertigstellung das (Teil-)Ergebnis eines Entwicklungsabschnitts auf seine Qualität überprüft
 
-**8.3.1 Qualitätssicherung im Projekt**
+##8.3.1 Qualitätssicherung im Projekt
 
 Systemfehler Ursachen:
-  • Fehler in der Entwicklung (Spezifikation, Entwurf, Programmierung)
-  • Fehler in den Daten, den Nachrichten oder in den Parametern
-  • Fehler in Algorithmen (Überlauf der Arithmetik, Speicherüberlauf)
-  • Geräte- und Hardwarefehler
-  • Inkonsistenzen in der Konfiguration
+  - Fehler in der Entwicklung (Spezifikation, Entwurf, Programmierung)
+  - Fehler in den Daten, den Nachrichten oder in den Parametern
+  - Fehler in Algorithmen (Überlauf der Arithmetik, Speicherüberlauf)
+  - Geräte- und Hardwarefehler
+  - Inkonsistenzen in der Konfiguration
 
   Nutzerfehler sind keine Systemfehler.
 
-**8.4.1 Systemanalyse**
+###8.4.1 Systemanalyse
 
-**Implementation, Integration und Test**
+###Implementation, Integration und Test
