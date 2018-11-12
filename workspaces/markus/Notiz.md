@@ -1,6 +1,6 @@
-#8 Projektdurchführung
+# 8 Projektdurchführung
 
-##8.1 Einleitung
+## 8.1 Einleitung
 
   Wenn das Team steht, das Projekt initiiert ist beginnt die Projektdurchführung und endet mit der Übergabe der Projektergebnisse an den Auftraggeber.
   In der Projektdurchführung wird natürlich das Projektergebnis erarbeitet.
@@ -23,7 +23,7 @@
   (Abb. 8.1) und (Tab. 8.1) interessant.
 
 
-##8.2 Projektfortschrittskontrolle und Steuerung
+## 8.2 Projektfortschrittskontrolle und Steuerung
 
   - Aufrechthaltung der organisatorischen Rahmenbedingungen für das Projekt (z.B., dass das Projektteam arbeitsfähig bleibt, dass möglichst wenige oder keine
   Überlasten (zum Beispiel Überstunden) entstehen und dass zum Beispiel in der Interaktion
@@ -31,7 +31,7 @@
   finden)
   - Erreichung der vereinbarten Projektziele
 
-##8.2.1 Grundsätzliches Fortschrittskontrolle
+## 8.2.1 Grundsätzliches Fortschrittskontrolle
 
   Bewältigung von unerwarteten Schwierigkeiten, die Überwachung und Dokumentation des Projektfortschritts. Einhaltung von Kosten, Terminen und Qualitätsvorgaben.
 
@@ -40,7 +40,7 @@
   - regelmäßige (beispielsweise wöchentliche) Projektbesprechungen
   - Überprüfung der Resultate durch Qualitätskontrollmaßnahmen
 
-##8.2.1.2 Prinzipen der Fortschrittskontrolle
+## 8.2.1.2 Prinzipen der Fortschrittskontrolle
   - Motivation bei Mitarbeitern
   - vertrauensvolle und offene Kommunikation
   	Mitarbeiter sollten über Projektziele und Rahmenbedingungen informiert werden
@@ -63,7 +63,7 @@
 
 
 
-##8.2.1.3 Projektbesprechungen
+## 8.2.1.3 Projektbesprechungen
 
   Projektbesprechungen sind wichtige Bestandteile der Projektkoordination. Projektleiter sowie das Projektteam bekommen den aktuellen Zustand des Projekts sowie auftretende Schwierigkeiten oder Koordinationserfordernisse mit. Die Besprechungen sind auch von psychologischer Bedeutung und beeinflussen Motivation und Stimmung im Team.
   Projektbesprechungen sollten nicht mehr als zwei Ebenen in der Organisationshierarchie betreffen, sprich Projektleiter und die Ebene darunter die „Teil-Projektleiter“.
@@ -76,16 +76,16 @@
   Projektbesprechungen hängen vom Unternehmens- und Projektkultur ab.
   Bei Scrum gibt es kurze und knappe tägliche Besprechungen „Daily-Scrum“ .
 
-###8.2.1.4 Herbeiführen einer Projektfortschrittentscheidung
+### 8.2.1.4 Herbeiführen einer Projektfortschrittentscheidung
 
 
-##8.2.2 Fortschrittskontrolle
+## 8.2.2 Fortschrittskontrolle
 
   Hier werden wesentliche Aspekte des Projekts überwacht und gesteuert.
 
   (Abb. 8.2) interessant
 
-##8.2.2.1 Termintreue
+## 8.2.2.1 Termintreue
 
   Um Abweichungen von Soll und Ist festzustellen, wird die Plan- und Termintreue bestimmt.
 
@@ -99,7 +99,7 @@
 
 
 
-##8.2.2.2 Meilensteintrendanalyse
+## 8.2.2.2 Meilensteintrendanalyse
 
   (Abb. 8.3)
   Über die Meilensteintrendanalyse kann man sehr gut beobachten, wie Verzögerungen bei Arbeitspaketen auf dem kritischen Pfad den gesamten Projektverlauf beeinflussen können.
@@ -109,7 +109,7 @@
 
 
 
-##8.2.2.3 Soll-/Ist-Vergleich des Aufwands
+## 8.2.2.3 Soll-/Ist-Vergleich des Aufwands
 
   In einem Projekt ist der erforderliche Aufwand und an diesem Aufwand gekoppelt das Projektbudget.
   Daher ist die Überwachung des Aufwands und das Verhältnis von verbrauchtem zu geplanten Aufwands wichtig zu beobachten.
@@ -133,19 +133,19 @@
       Unzureichende Qualität der Mitarbeiter (mangelnde Qualifikation, Motivation, Produktivität)
       Leerlauuf der Mitarbeiter durch unklare Aufgabenstellung
 
-###8.2.2.4 Überwachung des Fertigstellungsgrades von Artefakten
+### 8.2.2.4 Überwachung des Fertigstellungsgrades von Artefakten
 
-###8.2.2.5 Unterstützung durch Werkzeuge
+### 8.2.2.5 Unterstützung durch Werkzeuge
 
 
-##8.2.3 Kostenerfassung und -kontrolle
+## 8.2.3 Kostenerfassung und -kontrolle
 
   Die Kostenerfassung erfolgt durch:
     - Tätigkeitsberichte für Personalkosten
     - Kosten für Unteraufträge
     - Interne Berechnung für Materialkosten, Dienstleistungen und ähnliches
 
-##8.2.4 Änderungskontrolle
+## 8.2.4 Änderungskontrolle
 
   Für den Erfolg eines Projekts ist eine sehr konsequent ausgeführte Änderungskontrolle wichtig.
 
@@ -157,7 +157,7 @@
     - Code
 
 
-##8.2.4.1 Änderungsforderungen und Änderungsentscheidungen
+## 8.2.4.1 Änderungsforderungen und Änderungsentscheidungen
 
   - Änderung der Anwenderanforderungen
   - Unklarheiten in den Anforderungen oder im Entwurf
@@ -166,17 +166,17 @@
   - Qualitätsmängel (hinsichtlich Tests, Leistung, Stabilität)
   - Optimierungsbedarf oder -optionen (Performance, Skalierbarkeit)
 
-##8.2.4.2 Konfliktpotenzial
+## 8.2.4.2 Konfliktpotenzial
 
   Durch mehrmalige Änderungen kann es leicht zu Konflikten im Team kommen.
   Der Arbeitsmoral sinkt, da das Projektteam den Eindruck erweckt, dass es sich gar nicht lohnt etwas fertig zu machen.
 
-##8.2.4.3 Änderungskontrolle
+## 8.2.4.3 Änderungskontrolle
 
   Die Änderungskontrolle ist dafür da die Entwicklung des Projekts zu beobachten.
   (Tab. 8.3)
 
-##8.2.5 Berichtswesen
+## 8.2.5 Berichtswesen
 
   Eine objektive, transparente und gut dokumentierte Fortschrittskontrolle ist wichtig um die Fertigstellung abzuschließen.
   Die Dokumentierung zwingt das Managment, sowie den anderen Beteiligten sich über den Stand des Projektes bewusst zu werden und Rechenschaft abzulegen.
@@ -193,7 +193,7 @@
 
 > Seite 276
 
-##8.3 Qualitätskontrolle und -steuerung
+## 8.3 Qualitätskontrolle und -steuerung
 
   Sicherstellung der Qualität des Softwareprodukts
 
@@ -202,7 +202,7 @@
   analytische Qualitätssicherung
     - die nach Fertigstellung das (Teil-)Ergebnis eines Entwicklungsabschnitts auf seine Qualität überprüft
 
-##8.3.1 Qualitätssicherung im Projekt
+## 8.3.1 Qualitätssicherung im Projekt
 
 Systemfehler Ursachen:
   - Fehler in der Entwicklung (Spezifikation, Entwurf, Programmierung)
@@ -213,6 +213,6 @@ Systemfehler Ursachen:
 
   Nutzerfehler sind keine Systemfehler.
 
-###8.4.1 Systemanalyse
+### 8.4.1 Systemanalyse
 
-###Implementation, Integration und Test
+### Implementation, Integration und Test
