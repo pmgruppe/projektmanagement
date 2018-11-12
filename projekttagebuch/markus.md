@@ -1,4 +1,4 @@
-# Projekttagebuch: [name]
+# Projekttagebuch: Markus Schuler
 
 Aufgabe / Task | Zeitpunkt | Dauer
 --- | --- | ---
