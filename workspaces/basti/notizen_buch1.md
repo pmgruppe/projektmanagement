@@ -97,7 +97,8 @@
 	- Alternativpläne entwickeln
 	- Übertragen an Außenstehenden
 - Risiken im Studium
-![alt text] ([logo]: C:\Users\Basti\OneDrive - fh-bielefeld.de\Studium\3. Semester\4 Softwareprojektmanagement\3.17.png "Bild")
+
+![3.17](https://github.com/BastimanCode/projektmanagement/tree/master/workspaces/basti/3.17.png)
 - Mit mehr Erfahrung wurde effizienter gearbeitet, aber es gab auch mehr Konflikte aufgrund von unterschiedlicher Motiviertheit
 - Bei unterschiedlichem Engagement gibt es kein Rezept für Erfolg
 - Häufigste Formen:
