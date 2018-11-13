@@ -12,3 +12,5 @@ Buch 1: Lesen + Notizen bis ca S. 80 | 28.10.2018 - 10:00 | 00h 45m
 JIRA-Cloud Setup | 28.10.2018 - 10:45 | 00h 30m
 Meeting | 30.10.2018 - 13:15 | 00h 20m
 Meeting | 06.11.2018 - 13:25 | 00h 20m
+Buch 3: Werkzeuge: Lesen + Notizen | 10.11.2018 - 12:15 | 01h 00m
+MS Projekt installation + Einarbeitung, Github + Jira "Integration" | 11.11.2018 - 16:45 | 01h 30m
