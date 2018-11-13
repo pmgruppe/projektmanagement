@@ -133,4 +133,3 @@ Viele Software Projekte scheitern an den Ressourcen
 #### Anpassung von Vorgehensmodellen
 * oft sind die Vorgehensmodelle so nicht nutzbar
 * meistens ist eine Anpassung notwendig
-
