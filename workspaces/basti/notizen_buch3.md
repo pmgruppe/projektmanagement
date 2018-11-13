@@ -1,4 +1,4 @@
-# 1 Grundlagen (12.11. 17.30)
+# 1 Grundlagen
 - Projektmanagement gibt es nicht nur bei der Software Entwicklung
 	- aber die Bereiche stehen in einer guten Wechselwirkung
 - Ziel ist die effiziente und kostengünstige Entwicklung von Software mit hoher Qualität
@@ -64,8 +64,6 @@ des Projekts. Wesentlichen Projektergebnisse sollten sich grundsätzlich in Arte
 ### 1.2.3 Ziele
 **Zeit, Kosten, Qualität, Umfang**
 - Darstellung als "Magisches Dreieck" oder "Teufelsquadrat" zeigt Abhängigkeit der Ziele untereinander
-- (12.11. 19.00)
-- (13.11. 8.00)
 - *Die Beherrschung der Kosten* hängt von der Genauigkeit der Kostenschätzung ab
 	- Die Einhaltung von Kosten, Terminen und Aufwand muss ständig Kontrolliert werden
 - *Sicherstellung einer möglichst hohen Qualität* aus Sicht der Benutzer, der Entwickler, des Betriebs
@@ -162,7 +160,7 @@ Unternehmensstrategien zugrunde
 	- Die *Primärorganisation* stellt die hierarchische Grundstruktur der Leitungsbeziehungen dar. Sie beinhaltet alle dauerhaften Organisationseinheiten, die durch eine hierarchische Beziehung miteinander verbunden sind.
 	- Die *Sekundärorganisation* beschreibt die Hierarchieübergreifenden und Hierarchieergänzenden Arbeitsgruppen, zum Beispiel Projektteams oder Abteilungen für Querschnittsaufgaben. Sie werden in der Regel temporär eingerichtet.
 - Zur Darstellung hat sich das Organigramm bewährt:
-![Organigramm](https://github.com/BastimanCode/projektmanagement/tree/master/workspaces/basti/2.1.png "Organigramm")
+![Organigramm](https://github.com/BastimanCode/projektmanagement/blob/master/workspaces/basti/2.1.PNG "Organigramm")
 - **Aufgabe:** Eine Aufgabe ist eine im Rahmen eines Projektes zu erzielende Leistung mit festgelegten Ergebnissen (in der Regel Artefakte, die an den Auftraggeber geliefert werden).
 - **Rolle:** Der Begriff Rolle bezeichnet eine bestimmte Funktion, die eine Person oder Organisationseinheit wahrnimmt. Eine Rolle definiert ein Aufgaben- und ein Fähigkeitsprofil. Rollen werden von Einzelpersonen, Teams oder Organisationseinheiten ausgeübt. Eine Rolle bezeichnet die Menge aller Fähigkeiten, Kenntnisse und Verhaltensweisen, die eine Person benötigt, um eine bestimmte Aufgabe wahrzunehmen.
 - **Aufgaben-Rollen-Zuordnung:** DieRollenzuordnung bezeichnet die Zuordnung der Aufgabe zu unter Umständen mehreren Rollen, die von einer oder mehreren Personen wahrgenommen werden.Wenn wir also von Aufgaben sprechen,meinen wir die Artefakte (als Ergebnisse einer Aufgabe) losgelöst vom Bearbeiter. Rollen werden durch Mitarbeiter besetzt. Durch diese Rollenzuordnung wird der Bezug zwischen der Aufgabe und dem Bearbeiter hergestellt.
@@ -308,4 +306,3 @@ Unternehmensstrategien zugrunde
 - **Autoritär** - bei Projekten die stark an Hierarchien orientiert sind (Linienorganisation)
 - **Kompetenzgeprägt** - Achtung durch Kompetenz und Erfahrung
 - **Team-orientiert** - gleichberechtigte Teammitglieder organisieren sich selbst
-(13.11. 12.00)
