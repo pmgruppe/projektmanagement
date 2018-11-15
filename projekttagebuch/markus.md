@@ -10,4 +10,5 @@ Meeting | 30.10.2018 - 13:15 | 00h 20m
 Meeting | 06.11.2018 - 13:25 | 00h 20m
 2tes Buch: Lesen von S. 249 - S. 272  | 10.11.2018 - 15:00 | 01h 00m
 2tes Buch: Lesen + Notizen von S. 249 - S. 276  | 11.11.2018 - 16:00 | 02h 30m
-2tes Buch: Lesen + grobe Notizen von S. 276 - S. 305  | 11.11.2018 - 16:00 | 00h 30m
+2tes Buch: Lesen + grobe Notizen von S. 276 - S. 290  | 11.11.2018 - 16:00 | 00h 30m
+2tes Buch: Lesen + grobe Notizen von S. 290 - S. 305  | 14.11.2018 - 20:00 | 00h 30m

@@ -21,7 +21,8 @@
   Das Projekt- und QS-Handbuch regelt wie das Projekt durchgeführt und die Qualität sichergestellt wird.
 
   Die Artefakte bilden die Grundlage für die Bestimmung des Projektfortschritts.
-  (Abb. 8.1) und (Tab. 8.1) interessant.
+
+  > (Abb. 8.1) und (Tab. 8.1) interessant.
 
 
 ### 8.2 Projektfortschrittskontrolle und Steuerung
@@ -84,7 +85,7 @@ finden)
 
   Hier werden wesentliche Aspekte des Projekts überwacht und gesteuert.
 
-  (Abb. 8.2) interessant
+  > (Abb. 8.2) interessant
 
 ### 8.2.2.1 Termintreue
 
@@ -175,7 +176,8 @@ Der Arbeitsmoral sinkt, da das Projektteam den Eindruck erweckt, dass es sich ga
 ### 8.2.4.3 Änderungskontrolle
 
 Die Änderungskontrolle ist dafür da die Entwicklung des Projekts zu beobachten.
-(Tab. 8.3)
+
+> (Tab. 8.3)
 
 ### 8.2.5 Berichtswesen
 
@@ -191,6 +193,17 @@ Das Berichtwesen sollte folgende Kernfragen beantworten können:
   - Was ist der fachliche Fortschritt?
   - Was sind aktuelle Problem und Risiken?
   - Sind in Zukunft Probleme zu erwarten?
+
+Projektstatusbericht
+  - Meilensteinliste für den Berichtszeitraum
+  - alle Meilensteine aufgelistet
+  - nicht erreichen eines Meilenstein muss begründet sein
+
+  Zur Darstellung bieten sich:
+    - Einfache Terminlisten an
+    - Ampelliste für die Kennzeichnung der Nicht-/Erreichung (rot/grün)
+    - Meilensteintrendanalyse
+
 
 > Seite 276
 
@@ -216,4 +229,38 @@ Systemfehler Ursachen:
 
 #### 8.4.1 Systemanalyse
 
-#### Implementation, Integration und Test
+#### 8.4.3 Implementation
+- Ausprogrammierung der Software
+- Qualitätsmerkmale des Codes:
+  - die Wahl (Namensgebung) für Identifikatoren
+  - die Vermeidung risikobehafteter Sprachelemente
+  - die Dokumentation
+  - die Form/Schreibweise/Stil der Codierung
+
+Vorteile:
+  - für die Zukunft, gute Lesbarkeit
+  - weniger Fehleranfällig
+  - Überprüfbarkeit
+
+
+Codedokumentation
+- Spezifikation (formal oder informell) mit
+  - Vor- und Nachbedingungen eines Funktionsaufrufs
+  - Rolle und Typ von Parametern
+  - Fehlerfälle
+  - Fehler-/Ausnahmebehandlung
+- Angabe der durch eine Funktion aufgerufenen weiteren Funktionen
+- Laufzeiten und Speicherbedarf
+
+### 8.4.4 Integration und Test
+  - keine Big-Bang-Integration
+  - Vorteile:
+    - Fehlerlokalisierung ist einfacher, wenn in ein bereits ausgetestes Teilsystem, ein weiter Teilsystem integriert wird
+    - man kann mit einer Integration beginnen, wenn Teilsysteme fertig sind
+
+
+  Bei der Integration werden ebenfalls Fehler gefunden, diese zu lokalisieren ist oft schwieriger, da es:
+  - Architekturfehler sowie Teilsystem- oder Modulfehler sein können
+
+### 8.4.6 Wartung
+  Die Wartung wird abgetrennt vom Projekt und wird daher auch nicht mehr als Projekt gesehen. Sondern als langfristige und nicht abschätzbare Zeit als Aufgabe gesehen.
