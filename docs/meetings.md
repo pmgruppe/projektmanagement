@@ -1,3 +1,21 @@
+> Do, 15.11.2018
+> Beginn: 09:00
+
+- Gegenseitige Themenpräsentation
+
+> Ende: 10:05
+
+---
+
+> Di, 13.11.2018
+> Beginn: 13:45
+
+- Gegenseitige Themenpräsentation
+
+> Ende: 14:50
+
+---
+
 > Di, 06.11.2018
 > Beginn: 13:25
 
