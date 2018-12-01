@@ -1,3 +1,12 @@
+> Di, 20.11.2018
+> Beginn: 13:15
+
+- Strukturfestlegung Ausarbeitung
+
+> Ende: 14:20
+
+---
+
 > Do, 15.11.2018
 > Beginn: 09:00
 
