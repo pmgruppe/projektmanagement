@@ -18,3 +18,4 @@ Meeting | 13.11.2018 - 13:45 | 01h 05m
 Meeting | 15.11.2018 - 09:00 | 01h 05m
 Meeting | 20.11.2018 - 13:15 | 01h 05m
 Ausarbeitung Struktur | 01.12.2018 - 12:00 | 00h 30m
+Ausarbeitung: Tooling | 01.12.2018 - 12:30 | 02h 00m
