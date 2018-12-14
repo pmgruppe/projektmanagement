@@ -19,3 +19,11 @@ Meeting | 15.11.2018 - 09:00 | 01h 05m
 Meeting | 20.11.2018 - 13:15 | 01h 05m
 Ausarbeitung Struktur | 01.12.2018 - 12:00 | 00h 30m
 Ausarbeitung: Tooling | 01.12.2018 - 12:30 | 02h 00m
+Meeting | 04.12.2018 - 13:45 | 00h 30m
+Ausarbeitung: Tooling | 06.12.2018 - 15:30 | 03h 00m
+Ausarbeitung: Tooling | 07.12.2018 - 09:30 | 02h 30m
+Ausarbeitung Coverpage | 14.12.2018 - 11:00 | 00h 20m
+
+Gesamtarbeitszeit ohne Meetings: 15h 45m
+Zeit Meetings: 05h 15m
+Gesamtarbeitszeit mit Meetings: 21h 00m
