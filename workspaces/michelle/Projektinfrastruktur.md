@@ -2,7 +2,7 @@
 Ein wichtiger Punkt im Projektmanagement ist die Infrastruktur.
 Durch passende Werkzeuge kann das Team von zeitraubenden Routineaufgaben entlastet werden.
 
-Für folgende Punkte müssen Anforderungen definiert und die Umgebung installiert und für das Team bereitgestellt werden:
+Für folgende Punkte müssen Anforderungen definiert, die Umgebung installiert und für das Team bereitgestellt werden:
 
 #### Hardwareumgebung
 Zur Hardwareumgebung gehört die Hardware für:
@@ -15,8 +15,8 @@ Zur Hardwareumgebung gehört die Hardware für:
 Zur Vernetzung gehört:
   * die Kommunikation im Team mit z. B. mit Telefonen und Videokonferenzsystemen
   * ein Druckerzugriff
-  * eine zentralen Ablagen, z. B. Wikis
-Eine schnelle und zielgerichtete Kommunikation ist für ein Projekt von hoher Bedeutung.
+  * eine zentrale Ablage, z. B. Wikis
+Eine schnelle und zielgerichtete Kommunikation ist für ein Projekt von hoher Bedeutung, da sonst wichtige Informationen zu spät übermittelt werden oder verloren gehen können.
 
 
 #### Projektablage
