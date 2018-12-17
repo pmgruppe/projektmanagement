@@ -4,7 +4,7 @@ Ein Projekt besteht aus mehreren, kleinen Einzelschritten, die im Projektlebensz
 Der Softwarelebenszyklus beinhaltet das Projekt, in der die Software entsteht, bis zu seiner Abschaffung. Beim Entwickeln einer neuen Software wird in der Regel nicht nur ein Projekt durchgeführt, sondern mehrere kleine Teilprojekte. Die Software ist Teil eines Produkts, der Produktlebenszyklus beschreibt die Lebensdauer. Der Projektlebenszyklus wird grundsätzlich in vier Phasen aufgeteilt: Projektentstehung, Projektdefinition, Projektdurchführung und Projektabschluss.
 In Unternehmen wird ein Projekt nach seiner Wirtschaftlichkeit und Machbarkeit ausgewertet, bevor es angegangen wird. Aus dem Portfolio entstehen dann Projekte und aus einem Projekt entstehen mehrere Aufgaben, die von den Projektmitarbeitern erledigt werden. Doch neben den projektbezogenen Aufgaben gibt es noch die projektübergreifenden Aufgaben. Diese umfassen zum Beispiel die Weiterentwicklung der Arbeitsweisen oder die Fortbildung der Mitarbeiter. Diese Aufgaben benötigen nicht die eigenen fachlichen Kompetenzen, sondern die der Projektmitarbeiter zu steigern. Die Erfahrungen aus jedem Projekt werden im sogenannten Knowledge Management festgehalten.
 
-![Projektplanung_in_Unternehmen.png](images/Projektplanung_in_Unternehmen.png)
+![Projektplanung_in_Unternehmen.png](Projektplanung_in_Unternehmen.png)
 
 ## 2.2. Phasen im Projektlebenszyklus
 Die vier Phasen sind Bestandteil des Grundmodells, die in noch genauer an das Projekt angepasst werden. Es kann auch zu Überlappungen kommen je nach dem welchem Modell man nachgeht. Jede Phase besteht aus ihren eigenen Aufgaben. Neben den Phasenabhängigen Tätigkeiten gibt es noch die Aufgaben des Managements wie: Risikomanagement, Problem-, Fehler- und Änderungsmanagement, Qualitätsmanagement und Qualitätssicherung, Konfigurations- und Versionsmanagement
@@ -18,7 +18,7 @@ Beim Projektabschluss werden die Ergebnisse übergeben und die Erfahrungen festg
 Die meisten Softwareprojekte scheitern an zu knapp bemessenen Ressourcen. Die Ressourcen, die man bei der Planung berücksichtigen soll, sind das Personal, die Werkzeuge, Räumlichkeiten, Finanzbudgets, Rahmenbedingungen und die Vorgaben. Die Projektziele müssen auf die Ressourcen abgestimmt sein und umgekehrt. Neben den Ressourcen haben auch die Vorgaben einen Einfluss auf die Projektdurchführung, wie zum Beispiel: Verträge, Anforderungen, Terminplan, Budgetplan, Qualitätsvorgaben und Vorgaben zur Verantwortungsaufteilung.
 Das **V-Modell** ist das Grundmodell in Sachen Softwareentwicklung.
 
-![V-Modell](images/V-Modell.png)
+![V-Modell](V-Modell.png)
 
 Oft hält man sich an die Phasen nur sehr grob oder einzelne Phasen überlappen oder das V-Modell bietet die Basis für ein genaueres, verfeinertes Modell.
 
