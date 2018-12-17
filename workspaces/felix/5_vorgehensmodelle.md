@@ -20,7 +20,7 @@ Mit Tailoring bezeichnet man das Anpassen eines Vorgehensmodells auf ein Projekt
 ### Phasenmodell
 Das bekannteste Phasenmodell ist das Wasserfallmodell. Man startet in der ersten Phase und geht bis zur letzten Phase durch, ein Schritt zurück ist nur bis zu einer Phase möglich, denn das Wasserfallmodell ist dazu gedacht in einem Durchlauf zu enden. Der Name kommt daher, dass die Ergebnisse von einer Phase direkt in die Nächste einfließen. Das Modell eignet sich besser für kleine Projekte da es kein inkrementelles Vorgehen anbietet. Risiken werden spät erkannt und Umplanungen sind nur schwer und kostspielig durchzuführen.
 
-![Wasserfallmodell](Wasserfallmodell.png)
+![Wasserfallmodell](Wasserfallmodell.PNG)
  
 ### Spiralmodell
 Das Spiralmodell ist ein Vorgehensmodell mit iterativem Design. Es besteht aus vier Schritten:
