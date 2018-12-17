@@ -15,3 +15,5 @@ Meeting |	15.11.2018 - 09:00 | 01h 05m
 Meeting |	20.11.2018 - 13:15 | 01h 05m
 Ausarbeitung - Projektinfrastruktur | 02.12.2018 | 02h 00m
 Ausarbeitung - Projekt- und Arbeitsplanung | 03.12.2018 | 02h 00m
+Ausarbeitung - Projekt- und Arbeitsplanung  | 15.12.2018 | 03h 00m
+Ausarbeitung - Projekt- und Arbeitsplanung  | 16.12.2018 | 03h 00m   
