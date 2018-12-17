@@ -58,9 +58,161 @@ Langwierige Entscheidungs- und Koordinationsprozesse können zu Problemen werden
 
 ## 4.3. Management(verfahren) / Aufgaben des Managements
 ## 4.4. Projekt-/Arbeitsplanung
+Eine wichtige Aufgabe des Managements eines Softwareprojekts ist die Projektplanung.
+In dieser Planung werden die Vorgaben der zu erbringenden Arbeitsleistung, sowie deren Termine, festgelegt und die Ressource und zulässigen Kosten kalkuliert.
+Zuerst wird ein initialer Projektplan erstellt.
 
-### 4.4.x. Aspekte von Projekt-/Arbeitsplanung in Projektmanagementwerkzeugen
+### Projektstrukturplan
+Der Projektstrukturplan ist dafür da, um für ein großes Projekt einen besseren Überblickt zu bekommen.
+Hierbei wird das Projekt in kleinere und übersichtlichere Arbeitspakete und Teilprojekte zerlegt.
 
+![Projektstrukturplan](images/Projektstrukturplan.png)
+
+#### Erstellung
+Zur Erstellung des Plans können folgende zwei Methoden benutzt werden:
+
+###### Top-Down
+Bei Top-Down wird die gesamte Problemstellung betrachet und schrittweise zerlegt und verfeinert. Dafür müssen vorher Strukturierungskriterien definiert werden, die für das Zerlegen benötigt werden.
+
+###### Bottom-Up
+Bei der Bottom-Up Methode werden zuerst im Brainstorming alle Einzelaktivitäten gesammelt und dann von unten nach oben definiert.
+
+Um den Projektstrukturplan zu überprüfen, gibt es folgende Bedingungen, die erfüllt sein müssen:
+###### Disjunktionsbedingung
+Die Elemente einer Ebene müssen sich vollständig voneinander unterscheiden.
+
+###### Vollständigkeitsbedingung
+Der Inhalt der zerlegten Elemente müssen zusammen wieder das Ursprungselement ergeben. Es darf also bei der Zerlegung nichts verloren gehen.
+
+#### Strukturierungskriterien
+Die Strukturierung von einem Projekt in Teilprojekte kann nach unterschiedlichen Strukturierungskriterien erfolgen.
+Ein paar Beispiele sind die Gliederung nach Disziplinen, Architektur und Aufbau der Software und Verantwortung.
+
+#### Arbeitspakete
+Arbeitspakete legen die durchzuführenden Arbeiten fest. Sie sind eine in sich abgeschlossene Tätigkeit mit festgelegter Dauer, Zuordnung von Personal- und Betriebsmitteln und logischen und zeitlichen Abhängigkeiten zu anderen Arbeitspaketen.
+Bei Arbeitspaketen sollte die ordnungsgemäße Durchführung überwacht und festgelegt werden. Dafür können Statusinformationen und Workflows für Arbeitspakete verwendet werden.
+Ein Arbeitsauftrag kann zum Beispiel die Zustände Vorgeschlagen, Aktiv, in Bearbeitung, Abgeschlossen oder Erledigt annehmen. Die Zustände dürfen nur in einer festgelegten Reihenfolge erreicht werden.
+Durch die Überwachung kann die gesamte Tätigkeitsliste analysiert werden und ein groben Überblick über den Status der Arbeit liefern.
+
+### Meilensteinplanung
+Mit Meilensteine werden Projektfortschritt und Qualität kontrolliert. Meilensteine werden in der Meilensteinplanung erfasst, der in den Projektstrukturplan integriert sein kann. Besonders geeignet hierfür sind Gantt-Diagramme.
+!!BILD!!
+
+Im Meilensteinplan werden Projektfortschrittstufen und Zwischenresultate des Projektverlaufs vorgegeben. Für das Erreichen von Meilensteinen ist die Qualität der zum Meilenstein fertig zu stellenden Produkte zu überprüfen und zu dokumentieren.
+Die Bestimmung der Meilensteine erfolgt unterschiedlich je nach verwendetem Vorgehen im Projekt. Bei einer agilen Vorgehensweise werden Meilensteine auch an regelmäßigen Releases der Projektergebnisse geknüpft. Weitere Kriterien für Meilensteine sind kritische, nicht verrückbare Daten.
+
+#### Meilenstein
+Ein Meilenstein definiert einen zu erreichenden Entwicklungsstand im Projekt, meist durch Beschreibeung von Projektergebnissen.
+Er braucht keine Ressourcen, ist überprüfbar beschrieben (nicht erlaubt ist zum Beispiel "Programm zu 90% fertig") und von kurzer Dauer (zum Beispiel 2-4 Wochen).
+
+#### Eigenschaften
+Meilensteine können auf unterschiedliche Arten gefunden und festgelegt werden. Folgende Eigenschaften sind zu beachten:
+* Überprüfbarkeit
+	- Mit dem Erreichen des Meilensteins ist ein oder mehrere Artefakte erledigt. Die Fertigstellung ist messbar überprüfbar.
+* Kurzfristigkeit
+	- Um dem Projekt genügend Zeit zum Arbeiten zu geben, gleichzeitig aber Verzögerungen frühzeitig zu erkennen, sind Abstände zwischen Meilensteinen kurz zu wählen.
+* Gleichvereteilung
+	- Meilensteine sollten gleichmäßig zu verteilen und eine ausgewogene Fortschrittskontolle zu ermöglichen.
+
+#### Zeitliche Verteilung
+Der zeitliche Abstand von Meilensteinen sollte relativ kurz sein (etwa 3-4 Wochen), um den Projektfortschritt gut kontrollieren zu können. Beachtet werden muss, dass die Zeit zwischen den Meilensteinen weder zu gering noch zu groß ist. Bei zu geringem Abstand bleibt zu wenig Zeit für die inhaltliche Arbeit, da kontinuierlich Meilensteine vorzubereiten sind. Ist der Abstand zu groß, können Fehlentwicklungen im Projekt zu spät erkannt werden.
+
+#### Feststellen der Zielerreichung
+Meilensteine sind Zwischenziele im Projekt. Diese müssen regelmäßig kontrolliert werden. Wenn ein Meilenstein erreicht wird, werden die Artefakte des Meilensteins überprüft.
+
+#### Blockierende Meilensteine
+Blockierende Meilensteine sind von Entscheidungen abhängig, die den weiteren Projektablauf beeinflussen können. Sie werden in der Projektplanung früh festgelegt.
+Die Entscheidungsfindung wird in der Regel ausßerhalb des Projektteams erfolgen. Typische blockierende Meilensteine sind zum Beispiel: Projekt genehmigt, Andorderungen festgelegt, Projekt beauftragt, Abnahme erfolgt.
+
+### Netzplantechnik
+Aufgrund der Abhängigkeiten und der Zusammenhänge zwischen Aufgaben und Ressourcen können die Zeitpunkte für die Durchführung von Tätigkeiten mithilfe der Netzplantechnik berechnet und grafisch dargestellt werden. Mit dem Netplan kann man bestimmen wie lange das Projekt mindestens dauern wird, welche Arbeitspakete das Projekt verzögern können, ob das Projekt im Zeitplan ist und ob es früher oder später fertig werden wird.
+Durch ihn hat man früh ein Gesamtbild des Projektes und kann frühzeitig die benötigte Bearbeitungsdauer für das Projekt abschätzen.
+
+#### Darstellung von Netzplänen
+##### MPM-Netzplan
+Der MPM-Netzplan wird auch als Standard-Netzplan bezeichnet. Die Knoten des Plans stellen Vorgänge dar und die Pfeile die logischen Abhängigkeiten.
+
+![MPM-Netzplan](images/Netzplan-MPM.png)
+
+##### Vorgangspfeil-Netzplan
+In einem CPM-Netzplan stellen die Pfeile die Vorgänge dar. Die Knoten stellen die Abhängigkeiten im Sinne von Anfangs- und Endereignissen eines Vorgangs dar.
+
+![CPM-Netzplan](images/Netzplan-CPM.png)
+
+##### Ereignisknoten-Netzplantechnik
+Der PERT-Plan ist ein ereignisorientierter Netzplan. Die Knoten stellen die Ereignisse dar und die Pfeile deren Abhängigkeiten. Die Dauer der Tätigkeiten wird nicht fix angegeben, sondern durch erwartete frühste und späteste Termine bestimmt.
+
+![PERT-Netzplan](images/Netzplan-PERT.png)
+
+#### 4.4.2.2 Kritische Pfade und Optimierung
+Wichtig bei der Planung ist ein Optimierungsziel. Zum einen will man den benötigten Aufwand klein halten und zum anderen die gesamte Entwicklungsdauer mit maximalem Aufwand minimieren.
+Ein Kritischer Pfad sind die Vorgänge, die bei zeitlicher Änderung, den Endtermin des gesamten Netzplans verschieben. Es gibt immer mindestens einen kritischen Pfad im Netzplan.
+
+##### Probleme in der Anwendung
+Die Netzplantechnik ist eine allgemeine Methode zur Projektplanung. Folgende Probleme tauchen bei der Anwendung in der Softwareentwicklung auf:
+
+###### Randbedingungen
+Der Ausgleich der Randbedingungen, zum Beispiel durch Einfluss anderer Projekte und Fehlzeiten, ist schwer in einem Netzplan zu berücksichtigen.
+
+###### Abhängigkeiten
+Es gibt nicht immer so feste Abhängigkeiten zwischen Vorgängen. Netzpläne zeigen somit eine Präzision an, die sie möglicherweise garnicht haben.
+
+###### Detailierungsgrad
+Da man Teilaufgaben häufig vorziehen kann, ist im Netzplan eine Untergliederung des Projekts erforderlich. Dadurch kann ein Netzplan nicht mehr sinvoll anwendbar sein.
+
+Die Netzplantechnik eignet sich gut für die Grobplanung des Projekts. Aufgrund der schnell erreichten Komplexität, sollte man Werkzeuge nutzen, die die entsprechenden Techniken anbieten.
+
+### Balkenplantechnik
+Der Projektstrukturplan zeigt die Abhängigkeiten der Arbeitspakete. Der Nachteil an Netzplänen ist, dass die Möglichkeiten, dass mehrere Arbeitspakete parallel laufen können, nicht dargestellt werden können.
+
+#### Darstellung als Gantt-Diagramm
+Mithilfe eines Gantt-Diagramm ist es Möglich Projektpläne als Balkendiagramme darzustellen. Hierbei werden Zeiten und Dauer von Vorgängen auf einer Zeitachse angeordnet und in Beziehung gesetzt.
+Die Vorgänge werden in die erste Spalte der Tabelle eingetragen. Die Zeitachse wird in der ersten Zeile dargestellt. Mit waagerechten Balken werden dann die jeweiligen Vorgänge visualisiert. Je länger der Balken, desto länger der Vorgang.
+
+![Gantt-Diagramm](images/Gantt-Diagramm.png)
+
+##### Vernetzte und unvernetzte Gantt-Diagramme
+In einem unvernetzten Plan sind alle Vorgänge eingetragen, jedoch gibt es keine Abhängigkeiten zwischen den Vorgängen. Die Abhängigkeiten werden erst im späteren Verlauf definiert und eingetragen. Als Ergebnis entsteht ein vernetzter Gantt-Plan.
+
+##### Personen- vs. aufgabenbezogene Gantt-Diagramme
+Ein aufgabenbezogenes Diagramm ist, wenn die Vorgänge des Projekts in den Zeilen enthalten und deren Dauer der Zeitachse eingetragen sind. Bei jedem Vorgang sind auch die Bearbeiter angegeben. Durch diese Sicht kann man das Gesamtprojekt im Auge behalten. Wenn man aber wissen möchte, welcher Mitarbeiter welche Aufgaben betreut ist ein personenbezogenes Gantt-Diagramm vom Vorteil.
+
+#### Beziehungen und Abhängigkeiten
+Die Pfeile der Abhängigkeiten in der Netzplantechnik wie auch bei Gantt-Diagrammen haben eine besondere Bedeutung. In der Balkenplantechnik und auch in der Netzplantechnik werden die Beziehungen jedoch über einfache logische Abfolgen weiter verfeinert.
+
+##### Normalfolge
+Wenn Vorgang A abgeschlossen sein muss bevor Vorgang B begonnen werden kann, spricht man von einer Normalfolge.
+
+![Normalfolge](images/Normalfolge.png)
+
+##### Anfangsfolge
+Wenn der Beginn eines Vorgangs A die Bedinung dafür ist, dass ein Vorgang B begonnen werden kann, spricht man von einer Anfangsfolge.
+
+![Anfangsfolge](images/Anfangsfolge.png)
+
+##### Endfolge
+Wenn der Abschluss eines Vorgangs A die Bedingung dafür ist, dass ein Vorgang B beendet werden kann, spricht man von einer Endfolge.
+
+![Endfolge](images/Endfolge.png)
+
+##### Sprungfolge
+Wenn der Abschluss eines Vorgangs B die Voraussetzung dafür ist, dass ein Vorgang A begonnen werden kann, spricht man von einer Sprungfolge.
+
+![Sprungfolge](images/Sprungfolge.png)
+
+### Philosophien zur Projektplanung
+Die Projektplanung kann sich an unterschiedliche Philosophien orientieren. Es kann eine meilensteinbasierte Planung sein oder eine Time Boxing Planung.
+
+#### Meilenstein-orientierte Planung
+Meilensteine sind in der Meilenstein-orientierten Planung das Grundgerüst. Sie lassen sicht recht einfach identifizieren. Auch Vorgehensmodelle enthalten in der Regel Meilensteine. Sie sind dabei keine zeitlich fixierten punkte, sondern variable Elemente des Projektplans.
+
+#### Fast Tracking
+Eine Technik, die meilensteinorientiertes, paralleles Arbeiten erlaubt ist das Fast Tracking. Das Fast Tracking eignet sich besonders für produktzentriete Vorgehensmodelle wie das V-Modell. Es wird festgelegt, wann ein Artefakt spätestens fertiggestellt und qualitätsgesichert werden muss. Weiterhin ist festgelegt, welche Abhängigkeiten zwischen den einzelnen Artefakten besteht. Somit kann ermittelt werden, welche Artefakte zuerst und welche auf dieser Grundlage erstellt werden können.
+
+#### Time Boxing
+Als Alternative zur meilensteinorientierten Projektplanung gibt es das Time Boxing. Hierbei werden Zeitpunkte für die Überprüfung des Projektstandes festgelegt. Typische Überprüfungszeitpunkte ist ein Abstand von vier bis sechs Wochen. Im Extremfall werden die geplanten Projektergebnisse in der vorliegenden Form ohne Umplanung in den nächsten Projektabschnitt übernommen. Das heißt, dass beim Time Boxing keine Änderungen an der Zeitplanung gemacht werden. Stattdessen werden Umfang oder Qualität der Artefakte angepasst.
+
+### 4.4.5. Aspekte von Projekt-/Arbeitsplanung in Projektmanagementwerkzeugen
 Ein Hauptaspekt vieler Projektmanagementwerkzeuge liegt auf dem Abbilden von Arbeitspaketen in sogenannten *Tasks* oder *Issues*. Meist können mehrere Tasks zu *Milestones* zusammengefasst werden.
 
 **Github** etwa unterstützt das Erstellen und Zuweisen dort genannter *Issues*. Sie können mit Labeln versehen werden, um z.B. Dringlichkeit abzubilden. **Trello** erweitert diese Funktionalität um die Möglichkeit ein *Due-Date* festzulegen. In **Gitlab** existiert zusätzlich eine Timetracking-Funktionalität. Auch **Jira** bietet diese Features ebenfalls und ergänzt diese um die Möglichkeit der direkten Priorisierung. All diese Tools erlauben außerdem das granulare Beschreiben von Arbeitspaketen in Checklisten und eine Diskussions-Funktion für Kommunikation betreffend einzelner Tasks. In **MS-Project** existieren die eher abgespeckten *Vorgänge*, die eine ähnliche Funktion erfüllen. Dort können jedoch Abhängigkeiten von Arbeitspaketen im Sinne eines *Projektstrukturplans* abgebildet werden. In **Jira** kann das z.B. über das Abbilden von Tasks in einer Hirachie mithilfe von Sub-Tasks erreicht werden.
@@ -123,8 +275,34 @@ Simples Beispiel einer JQL-Abfrage in **Jira**
 In diesem Beispiel können Tasks durch simple Angabe von Filterbedingungen alle Tasks aus dem Projekt "Musterprojekt", die diese Woche erstellt wurden geordnet nach Zeitpunkt der Erstellung angezeigt werden.
 
 ## 4.5. Projektinfrastruktur
+Ein wichtiger Punkt im Projektmanagement ist die Infrastruktur.
+Durch passende Werkzeuge kann das Team von zeitraubenden Routineaufgaben entlastet werden.
 
-### 4.5.x. Aspekte von Projektinfrastruktur im Bezug auf Projektmanagementwerkzeuge
+Für folgende Punkte müssen Anforderungen definiert, die Umgebung installiert und für das Team bereitgestellt werden:
+
+#### Hardwareumgebung
+Zur Hardwareumgebung gehört die Hardware für:
+* die Entwicklung,
+* das Testen,
+* den Produktivbetrieb
+
+#### Kommunikationsumgebung
+Zur Vernetzung gehört:
+* die Kommunikation im Team mit z. B. mit Telefonen und Videokonferenzsystemen
+* ein Druckerzugriff
+* eine zentrale Ablage, z. B. Wikis
+Eine schnelle und zielgerichtete Kommunikation ist für ein Projekt von hoher Bedeutung, da sonst wichtige Informationen zu spät übermittelt werden oder verloren gehen können.
+
+#### Projektablage
+Zur Projektablage gehören:
+* die Dokumente der Projektinitiierung
+* die Angebote und Verträge
+* Planungs- und Steuerungsdokumente
+* Projekttagebuch
+* Korrespondenz und Aufzeichnungen
+* Angaben zur technischen Infrastruktur und zur Administration
+
+### 4.5.1. Aspekte von Projektinfrastruktur im Bezug auf Projektmanagementwerkzeuge
 
 #### Repository
 
