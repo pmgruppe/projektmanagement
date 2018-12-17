@@ -126,3 +126,29 @@ Sind vom Projekt indirekt betroffen z.B.: Interessenvertretungen, Anrainer bei e
 #### Arbeitspakete
 
 Work Breakdown Structure (WBS)
+
+---
+
+# 3: Ausführungsphase
+
+## 3.1
+### "Magisches Viereck"
+Sich gegenseitig beeinflussende Faktoren:
+- Zeit
+- Kosten
+- Ressourcen
+- Qualität
+
+## 3.4
+### Projektfortschritt / Qualität sichern
+#### Taskliste
+##### Priorisierung
+Priorität != Dringlichkeit  
+Dringlichkeit wird vom Fälligkeitstermin abgedeckt
+
+**Priotitätsstufen** (siehe Abb. 3.9, S. 68)
+- 1: Erforderlich, ohne geht es nicht weiter / Projekterfolg gefärdet
+- 2: Zu erledigen
+- 3: Nice to have
+
+Bewertung durch Durchschnittbildung aus Bewertungen jedes Teammitglieds
