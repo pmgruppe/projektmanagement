@@ -20,7 +20,7 @@ Mit Tailoring bezeichnet man das Anpassen eines Vorgehensmodells auf ein Projekt
 ### Phasenmodell
 Das bekannteste Phasenmodell ist das Wasserfallmodell. Man startet in der ersten Phase und geht bis zur letzten Phase durch, ein Schritt zurück ist nur bis zu einer Phase möglich, denn das Wasserfallmodell ist dazu gedacht in einem Durchlauf zu enden. Der Name kommt daher, dass die Ergebnisse von einer Phase direkt in die Nächste einfließen. Das Modell eignet sich besser für kleine Projekte da es kein inkrementelles Vorgehen anbietet. Risiken werden spät erkannt und Umplanungen sind nur schwer und kostspielig durchzuführen.
 
-!(Wasserfallmodell)[Wasserfallmodell.png]
+![Wasserfallmodell](Wasserfallmodell.png)
  
 ### Spiralmodell
 Das Spiralmodell ist ein Vorgehensmodell mit iterativem Design. Es besteht aus vier Schritten:
@@ -55,7 +55,7 @@ Bei Scrum handelt es sich um ein agiles Vorgehensmodell, alle Teammitglieder kö
 RUP ist ein aktivitätsgetriebener Entwicklungsprozess, die Aktivitäten sind sehr detailliert vorgegeben. Ihre Reihenfolge und die Arbeitsschritte sind genau definiert. Zum Rational Unified Process gehört die Darstellung der Aufgaben des Projekts in einer Grafik. Auf der x-Achse befinden sich die Phasen und auf der y-Achse die Disziplinen. Durch diese Darstellung entsteht das „Rup-Gebirge“. Der RUP wird üblicherweise durch UML (Use Case Modell) Diagramme unterstützt.
 Nachfolgend sind die Phasen und Disziplinen aufgelistet und eine Ansicht des „RUP-Gebirges“.
 
-![Rational_Unified_Process_Phasen_Tabelle](Rational_Unified_Process_Phasen_Tabelle.png)
+![Rational_Unified_Process_Phasen_Tabelle](Rational_Unified_Process_Phasen_Tabelle.PNG)
 ![Rational_Unified_Process_Disziplinen_Tabelle](Rational_Unified_Process_Disziplinen_Tabelle.PNG)
 ![RUP-Gebirge](RUP-Gebirge.png)
 
@@ -63,9 +63,9 @@ Nachfolgend sind die Phasen und Disziplinen aufgelistet und eine Ansicht des „
 Das V-Modell XT ist ein Artefakt orientiertes Vorgehensmodell, das heißt es misst den Fortschritt an den Ergebnissen der einzelnen Phasen. Das Modell ist individuell auf das Projekt anpassbar, deshalb ist es so flexibel, dieses Verfahren nennt man „Tailoring“. Es enthält Vorgehens- und Ablaufbausteine und Vorschläge in welchem Zusammenhang diese Bausteine am sinnvollsten sind. Die Pläne richten sich danach aus ob das Modell für den Auftraggeber, Auftragnehmer oder ein eigenständiges Projekt ist. Es kann auch ein Vorgehensmodell mit einbezogenen werden. Im V-Modell XT gibt es keine festgelegten Rollen. Die Rollen werden genauso wir die Vorgehens- und Ablaufbausteine an das Projekt angepasst. Jede Rolle kann als „verantwortlich“ oder als „mitwirkend“ gekennzeichnet werden, ist jemand als Verantwortlicher für ein Produkt zugewiesen, ist es seine Pflicht dafür zu sorgen das das Produkt innerhalb der Kosten und des Zeitrahmens fertig wird, der geforderten Qualität entspricht und das fertige Produkt ordnungsgemäß übergeben wird.
 Das Projektmanagement übernimmt die Planung, Überwachung und Steuerung der Produkterstellung. Außerdem kann im Management entschieden werden welche „Managementprodukte“ erstellt werden müssen.
 
-![Managementprodukte](Managementprodukte.png)
+![Managementprodukte](Managementprodukte.PNG)
 
-![V-Modell_XT](V-Modell_XT.png)
+![V-Modell_XT](V-Modell_XT.PNG)
 
 ## 5.3. Anpassung von Vorgehensmodellen
 Die aufgeführten Vorgehensmodelle sind als Framework zu betrachten, vor allem die grundsätzlichen Vorgehensmodelle werden in der Anwendung verändert und angepasst.
