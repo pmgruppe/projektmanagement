@@ -27,6 +27,8 @@ Das Spiralmodell ist ein Vorgehensmodell mit iterativem Design. Es besteht aus v
 Analyse, Evaluierung, Realisierung, Planung
 Bei der Analyse werden Ziele, Anforderungen und Lösungsalternativen festgelegt, in der Evaluierung werden die Lösungsalternativen ausgewertet und Risiken abgeschätzt. Die Realisierung wird geplant und durchgeführt, dann erfolgt das Review und die Planung für den nächsten Iterationsschritt. Im Spiralmodell wird inkrementell vorgegangen und das gesamte Vorgehensmodell wird mit Prototyping unterstützt.
 
+![Spiralmodell](Spiralmodell.PNG)
+
 ### Prototyping
 Im Prototyping geht es um das Darstellen eines Zielsystems oder einer seiner Funktionen, in kleinerer abgespeckter Form. Dabei gibt es verschiedene Faktoren, die je nach Prototyp unterschiedlich stark ausgeprägt sind. Es gibt Prototypen die, die Benutzeroberfläche darstellen, aber keine oder fast keine Funktionen haben und es gibt Prototypen, die nur die Funktionen testen, aber noch gar keine Benutzeroberfläche haben oder eben eine die nicht an das Ziel rankommt. Prototyping ist dazu da sich mit dem Kunden oder den anderen Entwicklern abzusprechen und Missverständnisse auszuschließen. Das Erstellen eines Prototyps ist immer mit Kosten verbunden was man in den Aufwandsschätzungen mit Bedenken muss. Arten von Prototypen sind zum Beispiel:
 Demonstratoren, Labormuster, Pilotsysteme, Rapid Prototyping
